@@ -36,3 +36,8 @@ src/ <br>
   - Horse List: Shows all horses and their conditions
   - Race Track: Visual representation of the race
   - Program/Results: Shows race schedule and results
+
+### Installation and Execution
+``` npm install ```
+``` npm run dev ```
+
