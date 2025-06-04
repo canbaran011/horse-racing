@@ -2,18 +2,18 @@
 
 # HORSE RACING GAME
 
-src/
-├── components/ # Vue components
-│ ├── HorseList.vue # Displays list of horses
-│ ├── RaceTrack.vue # Visual race track with animations
-│ └── RaceTables.vue # Program and results tables
-├── store/ # Vuex store
-│ └── index.ts # State management logic
-├── types/ # TypeScript type definitions
-│ └── index.ts # Interface definitions
-├── ui/ # UI components
-│ └── UiCard.vue # Reusable card component
-└── App.vue # Main application component
+src/ <br>
+├── components/ # Vue components <br>
+│ ├── HorseList.vue # Displays list of horses <br>
+│ ├── RaceTrack.vue # Visual race track with animations <br>
+│ └── RaceTables.vue # Program and results tables <br>
+├── store/ # Vuex store <br>
+│ └── index.ts # State management logic <br>
+├── types/ # TypeScript type definitions <br>
+│ └── index.ts # Interface definitions <br>
+├── ui/ # UI components <br>
+│ └── UiCard.vue # Reusable card component <br>
+└── App.vue # Main application component <br>
 
 ## Key Features
 
